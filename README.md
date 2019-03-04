@@ -1,6 +1,6 @@
 # SDLStudy
 
-# SDL学习笔记 
+### SDL学习笔记 
 
 #### 项目运行环境：Visual Studio
 
